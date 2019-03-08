@@ -3,3 +3,4 @@ GITのテスト！
 テスト１
 git add
 git commit
+git rm
