@@ -1,3 +1,5 @@
 GITのテスト！
 
 テスト１
+git add
+git commit
